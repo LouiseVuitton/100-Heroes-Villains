@@ -1,1 +1,3 @@
-FUTURE READ ME FILE
+This is a Python project for Code Louisville Winter 2018. I took the data from American Film Institute's list of 100 Heroes and Villains. The data includes heroes, villains, the actors who played the characters, films, and film release dates. 
+
+I added the multiple film genres that each film qualifies for, using IMDb.com. I also added the Rotten Tomatoes' Critics Score and Audience Score to examine if certain films are held in higher regard by critics.
