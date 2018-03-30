@@ -1,5 +1,4 @@
 import csv
-import _regex
 
 
 

@@ -1,15 +1,17 @@
+#!/usr/bin/env python
+
 import sqlite3
 import pandas as pd
 from bokeh.io import output_file, show
 from bokeh.plotting import figure
 from bokeh.models import HoverTool, ColumnDataSource
 
-conn = sqlite3.connect("SQLiteHeroVillain.db")
+conn = sqlite3.connect("db/SQLiteHeroVillain.db")
 HV = pd.read_sql_query("SELECT CharacterName, FilmReleaseYear, CharacterID FROM Hero_Villain", conn)
 conn.close()
 
-output_file = ("AFI_Heroes_Villains.html")
-file = "Hero_Villain.csv"
+output_file = "AFI_Heroes_Villains.html"
+file = "data/Hero_Villain.csv"
 
 
 HV["CharacterID"] = HV["CharacterID"].astype(int)

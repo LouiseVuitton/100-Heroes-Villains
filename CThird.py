@@ -1,4 +1,5 @@
 from BSecond import *
+
 def create_bool_field_from_search_term(data_sample, search_term):
     new_array = []
     new_array.append(data_sample[0].append(search_term))
