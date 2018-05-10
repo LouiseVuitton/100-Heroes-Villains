@@ -34,6 +34,7 @@ plot.circle(source=ds, x="FilmReleaseYear", y="CharacterID",fill_color="#9370DB"
 plot.select_one(HoverTool).tooltips = [("Character", "@CharacterName"),
                                        ("Actor", "@Actor"),
                                        ("Film", "@Film"),
+                                       ("Year", "@FilmReleaseYear"),
                                        ("Character Type","@CharacterType"),
                                        ("Hero Rank", "@HeroRank"),
                                        ("Villain Rank", "@VillainRank")
