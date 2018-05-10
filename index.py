@@ -35,10 +35,7 @@ plot.select_one(HoverTool).tooltips = [("Character", "@CharacterName"),
                                        ("Actor", "@Actor"),
                                        ("Film", "@Film"),
                                        ("Year", "@FilmReleaseYear"),
-                                       ("Character Type","@CharacterType"),
-                                       ("Hero Rank", "@HeroRank"),
-                                       ("Villain Rank", "@VillainRank")
-                                       ]
+                                       ("Rank", "@TotalRank")]
 
 plot.xaxis.axis_label = "Film Release Year"
 plot.xaxis.axis_label_standoff = 30

@@ -1,106 +1,105 @@
-﻿HeroRank,VillainRank,CharacterID,CharacterName,CharacterType,Actor,ActorID,Gender,Film,FilmCode,FilmReleaseYear,Action,Adventure,Animation,Biography,Comedy,Crime,Drama,Family,Fantasy,Film-Noir,History,Horror,Musical,Mystery,Romance,Sci-Fi,Sport,Thriller,War,Western,RTCriticScore,RTAudienceScore
-1,N/A,104,Atticus Finch,Hero,Gregory Peck,1,M,To Kill a Mockingbird,1,1962,N/A,N/A,N/A,N/A,N/A,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,91,92
-2,N/A,103,Indiana Jones,Hero,Harrison Ford,2,M,Raiders of the Lost Ark,2,1981,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,94,96
-3,N/A,102,James Bond,Hero,Sean Connery,3,M,Dr. No,3,1962,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,96,82
-4,N/A,101,Rick Blaine,Hero,Humphrey Bogart,4,M,Casablanca,4,1942,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,Y,N/A,97,95
-5,N/A,100,Will Kane,Hero,Gary Cooper,5,M,High Noon,5,1952,Y,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,Y,96,89
-6,N/A,99,Clarice Starling,Hero,Jodie Foster,6,F,The Silence of the Lambs,6,1991,N/A,N/A,N/A,N/A,N/A,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,95,95
-7,N/A,98,Rocky Balboa,Hero,Sylvester Stallone,7,M,Rocky,7,1976,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,93,69
-8,N/A,97,Ellen Ripley,Hero,Sigourney Weaver,8,F,Aliens,8,1986,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,Y,N/A,N/A,98,94
-9,N/A,96,George Bailey,Hero,James Stewart,9,M,It's a Wonderful Life,9,1946,N/A,N/A,N/A,N/A,N/A,N/A,Y,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,94,95
-10,N/A,95,T. E. Lawrence,Hero,Peter O'Toole,10,M,Lawrence of Arabia,10,1962,N/A,Y,N/A,Y,N/A,N/A,Y,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,98,93
-11,N/A,94,Jefferson Smith,Hero,James Stewart,9,M,Mr. Smith Goes to Washington,11,1939,N/A,N/A,N/A,N/A,Y,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,94,94
-12,N/A,93,Tom Joad,Hero,Henry Fonda,11,M,The Grapes of Wrath,12,1940,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,88
-13,N/A,92,Oskar Schindler,Hero,Liam Neeson,12,M,Schindler's List,13,1993,N/A,N/A,N/A,Y,N/A,N/A,Y,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,97,97
-14,N/A,91,Han Solo,Hero,Harrison Ford,2,M,Star Wars,14,1977,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,93,96
-15,N/A,90,Norma Rae Webster,Hero,Sally Field,13,F,Norma Rae,15,1979,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,92,79
-16,N/A,89,Shane,Hero,Alan Ladd,14,M,Shane,16,1953,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,97,81
-17,N/A,88,Harry Callahan,Hero,Clint Eastwood,15,M,Dirty Harry,17,1971,Y,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,95,90
-18,N/A,87,Robin Hood,Hero,Errol Flynn,16,M,The Adventures of Robin Hood,18,1938,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,100,89
-19,N/A,86,Virgil Tibbs,Hero,Sidney Poitier,17,M,In the Heat of the Night,19,1967,N/A,N/A,N/A,N/A,N/A,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,Y,N/A,N/A,96,92
-20,N/A,85,Butch Cassidy,Hero,"Paul Newman
-",18,M,Butch Cassidy and the Sundance Kid,20,1969,N/A,N/A,N/A,Y,N/A,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,89,92
-20,N/A,84,The Sundance Kid,Hero,Robert Redford,19,M,Butch Cassidy and the Sundance Kid,20,1969,N/A,N/A,N/A,Y,N/A,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,89,92
-21,N/A,83,Mahatma Gandhi,Hero,Ben Kingsley,20,M,Gandhi,21,1982,N/A,N/A,N/A,Y,N/A,N/A,Y,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,87,92
-22,N/A,82,Spartacus,Hero,Kirk Douglas,21,M,Spartacus,22,1960,N/A,Y,N/A,Y,N/A,N/A,Y,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,96,87
-23,N/A,81,Terry Malloy,Hero,Marlon Brando,22,M,On the Waterfront,23,1954,N/A,N/A,N/A,N/A,N/A,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,98,95
-24,N/A,80,Thelma Dickinson,Hero,Geena Davis,23,F,Thelma & Louise,24,1991,N/A,Y,N/A,N/A,N/A,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,84,82
-24,N/A,79,Louise Sawyer,Hero,Susan Sarandon,24,F,Thelma & Louise,24,1991,N/A,Y,N/A,N/A,N/A,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,84,82
-25,N/A,78,Lou Gehrig,Hero,Gary Cooper,5,M,The Pride of the Yankees,25,1942,N/A,N/A,N/A,Y,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,Y,N/A,N/A,N/A,92,89
-26,N/A,77,Superman,Hero,Christopher Reeve,25,M,Superman,26,1978,Y,Y,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,93,86
-27,N/A,76,Bob Woodward,Hero,Robert Redford,19,M,All the President's Men,27,1976,N/A,N/A,N/A,Y,N/A,N/A,Y,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,93,92
-27,N/A,75,Carl Bernstein,Hero,Dustin Hoffman,26,M,All the President's Men,27,1976,N/A,N/A,N/A,Y,N/A,N/A,Y,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,93,92
-28,N/A,74,Juror #8,Hero,Henry Fonda,11,M,12 Angry Men,28,1957,N/A,N/A,N/A,N/A,N/A,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,97
-29,N/A,73,General George Patton,Hero,George C. Scott,27,M,Patton,29,1970,N/A,N/A,N/A,Y,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,95,94
-30,N/A,72,Lucas (Luke) Jackson,Hero,Paul Newman,18,M,Cool Hand Luke,30,1967,N/A,N/A,N/A,N/A,N/A,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,95
-31,N/A,71,Erin Brockovich,Hero,Julia Roberts,28,F,Erin Brockovich,31,2000,N/A,N/A,N/A,Y,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,84,81
-32,N/A,70,Philip Marlowe,Hero,Humphrey Bogart,4,M,The Big Sleep,32,1946,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,Y,N/A,N/A,N/A,Y,N/A,N/A,N/A,Y,N/A,N/A,96,91
-33,N/A,69,Marge Gunderson,Hero,Frances McDormand,29,F,Fargo,33,1996,N/A,N/A,N/A,N/A,N/A,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,93,92
-34,N/A,68,Tarzan,Hero,Johnny Weissmuller,30,M,Tarzan the Ape Man,34,1932,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,100,67
-35,N/A,67,Alvin York,Hero,Gary Cooper,5,M,Sergeant York,35,1941,N/A,N/A,N/A,Y,N/A,N/A,Y,N/A,N/A,N/A,Y,N/A,N/A,N/A,Y,N/A,N/A,N/A,Y,N/A,85,87
-36,N/A,66,Rooster Cogburn,Hero,John Wayne,31,M,True Grit,36,1969,N/A,Y,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,90,84
-37,N/A,65,Obi-Wan Kenobi,Hero,Alec Guinness,32,M,Star Wars,14,1977,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,93,96
-38,N/A,64,The Tramp,Hero,Charlie Chaplin,33,M,City Lights,37,1931,N/A,N/A,N/A,N/A,Y,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,98,96
-39,N/A,63,Lassie,Hero,Pal,34,A,Lassie Come Home,38,1943,N/A,Y,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,94,75
-40,N/A,62,Frank Serpico,Hero,Al Pacino,35,M,Serpico,39,1973,N/A,N/A,N/A,Y,N/A,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,90,88
-41,N/A,61,Arthur Chipping,Hero,Robert Donat,36,M,"Goodbye, Mr. Chips",40,1939,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,81,87
-42,N/A,60,Father Edward,Hero,Spencer Tracy,37,M,Boys Town,41,1938,N/A,N/A,N/A,Y,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,89,81
-43,N/A,59,Moses,Hero,Charlton Heston,38,M,The Ten Commandments,42,1956,N/A,Y,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,94,87
-44,N/A,58,"Jimmy ""Popeye"" Doyle",Hero,Gene Hackman,39,M,The French Connection,43,1971,Y,N/A,N/A,N/A,N/A,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,98,87
-45,N/A,57,Zorro,Hero,Tyrone Power,40,M,The Mark of Zorro,44,1940,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,Y,100,78
-46,N/A,56,Batman,Hero,Michael Keaton,41,M,Batman,45,1989,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,72,84
-47,N/A,55,Karen Silkwood,Hero,Meryl Streep,42,F,Silkwood,46,1983,N/A,N/A,N/A,Y,N/A,N/A,Y,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,75,78
-48,N/A,54,The T-800,Hero,Arnold Schwarzenegger,43,M,Terminator 2: Judgment Day,47,1991,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,93,94
-49,N/A,53,Andrew Beckett,Hero,Tom Hanks,44,M,Philadelphia,48,1993,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,78,89
-50,N/A,52,General Maximus Decimus Meridius,Hero,Russell Crowe,45,M,Gladiator,49,2000,Y,Y,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,76,87
-N/A,1,1,Dr. Hannibal Lecter,Villain,Anthony Hopkins,46,M,The Silence of the Lambs,6,1991,N/A,N/A,N/A,N/A,N/A,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,95,95
-N/A,2,2,Norman Bates,Villain,Anthony Perkins,47,M,Psycho,50,1960,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,Y,N/A,N/A,N/A,Y,N/A,N/A,97,94
-N/A,3,3,Darth Vader,Villain,David Prowse (voiced by James Earl Jones),48,M,The Empire Strikes Back,51,1980,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,94,97
-N/A,4,4,The Wicked Witch of the West,Villain,Margaret Hamilton,49,F,The Wizard of Oz,52,1939,N/A,Y,N/A,N/A,N/A,N/A,N/A,Y,Y,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,99,89
-N/A,5,5,Nurse Ratched,Villain,Louise Fletcher,50,F,One Flew Over the Cuckoo's Nest,53,1975,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,95,96
-N/A,6,6,Mr. Potter,Villain,Lionel Barrymore,51,M,It's a Wonderful Life,9,1946,N/A,N/A,N/A,N/A,N/A,N/A,Y,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,95,94
-N/A,7,7,Alex Forrest,Villain,Glenn Close,52,F,Fatal Attraction,54,1987,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,78,71
-N/A,8,8,Phyllis Dietrichson,Villain,Barbara Stanwyck,53,F,Double Indemnity,55,1944,N/A,N/A,N/A,N/A,N/A,Y,Y,N/A,N/A,Y,N/A,N/A,N/A,Y,N/A,N/A,N/A,Y,N/A,N/A,96,95
-N/A,9,9,"Regan MacNeil (as possessed by ""Satan"")",Villain,Linda Blair (voiced by Mercedes McCambridge),54,F,The Exorcist,56,1973,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,86,87
-N/A,10,10,The Evil Queen,Villain,Voice of Lucille La Verne,55,F,Snow White and the Seven Dwarfs,57,1937,N/A,N/A,Y,N/A,N/A,N/A,N/A,Y,Y,N/A,N/A,N/A,Y,N/A,Y,N/A,N/A,N/A,N/A,N/A,98,78
-N/A,11,11,Michael Corleone,Villain,Al Pacino,35,M,The Godfather Part II,58,1974,N/A,N/A,N/A,N/A,N/A,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,97,97
-N/A,12,12,Alex DeLarge,Villain,Malcolm McDowell,56,M,A Clockwork Orange,59,1971,N/A,N/A,N/A,N/A,N/A,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,91,93
-N/A,13,13,HAL 9000,Villain,Voice of Douglas Rain,57,M,2001: A Space Odyssey,60,1968,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,94,89
-N/A,14,14,The Alien,Villain,Bolaji Badejo,58,M,Alien,61,1979,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,97,94
-N/A,15,15,Amon Goeth,Villain,Ralph Fiennes,59,M,Schindler's List,13,1993,N/A,N/A,N/A,Y,N/A,N/A,Y,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,97,97
-N/A,16,16,Noah Cross,Villain,John Huston,60,M,Chinatown,62,1974,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,Y,N/A,N/A,98,93
-N/A,17,17,Annie Wilkes,Villain,Kathy Bates,61,F,Misery,63,1990,N/A,N/A,N/A,N/A,N/A,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,89,89
-N/A,18,18,The Shark,Villain,"""Bruce""",62,A,Jaws,64,1975,N/A,Y,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,97,90
-N/A,19,19,Captain Bligh,Villain,Charles Laughton,63,M,Mutiny on the Bounty,65,1935,N/A,Y,N/A,Y,N/A,N/A,Y,N/A,N/A,N/A,Y,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,94,83
-N/A,20,20,Man,Villain,Voiced by Paul Starrs,64,M,Bambi,66,1942,N/A,N/A,Y,N/A,N/A,N/A,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,90,72
-N/A,21,21,Mrs. Eleanor Iselin,Villain,Angela Lansbury,65,F,The Manchurian Candidate,67,1962,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,98,90
-N/A,22,22,Terminator,Villain,Arnold Schwarzenegger,43,M,The Terminator,68,1984,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,100,89
-N/A,23,23,Eve Harrington,Villain,Anne Baxter,66,F,All About Eve,69,1950,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,94
-N/A,24,24,Gordon Gekko,Villain,Michael Douglas,67,M,Wall Street,70,1987,N/A,N/A,N/A,N/A,N/A,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,78,81
-N/A,25,25,Jack Torrance,Villain,Jack Nicholson,68,M,The Shining,71,1980,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,87,93
-N/A,26,26,Cody Jarrett,Villain,James Cagney,69,M,White Heat,72,1949,Y,N/A,N/A,N/A,N/A,Y,Y,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,93
-N/A,27,27,Martians,Villain,Various,70,U,The War of the Worlds,73,1953,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,Y,N/A,N/A,85,71
-N/A,28,28,Max Cady,Villain,Robert Mitchum,71,M,Cape Fear,74,1962,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,100,86
-N/A,29,29,Reverend Harry Powell,Villain,Robert Mitchum,71,M,The Night of the Hunter,75,1955,N/A,N/A,N/A,N/A,N/A,Y,Y,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,98,90
-N/A,30,30,Travis Bickle,Villain,Robert De Niro,72,M,Taxi Driver,76,1976,N/A,N/A,N/A,N/A,N/A,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,98,93
-N/A,31,31,Mrs. Danvers,Villain,Judith Anderson,73,F,Rebecca,77,1940,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,Y,Y,N/A,N/A,Y,N/A,N/A,100,92
-N/A,32,32,Clyde Barrow,Villain,Warren Beatty,74,M,Bonnie and Clyde,78,1967,Y,N/A,N/A,Y,N/A,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,89,88
-N/A,32,33,Bonnie Parker,Villain,Faye Dunaway,75,F,Bonnie and Clyde,78,1967,Y,N/A,N/A,Y,N/A,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,89,88
-N/A,33,34,Count Dracula,Villain,Bela Lugosi,76,M,Dracula,79,1931,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,91,81
-N/A,34,35,Dr. Szell,Villain,Laurence Olivier,77,M,Marathon Man,80,1976,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,80,81
-N/A,35,36,J.J. Hunsecker,Villain,Burt Lancaster,78,M,Sweet Smell of Success,81,1957,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,98,92
-N/A,36,37,Frank Booth,Villain,Dennis Hopper,79,M,Blue Velvet,82,1986,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,Y,N/A,N/A,94,88
-N/A,37,38,Harry Lime,Villain,Orson Welles,80,M,The Third Man,83,1949,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,Y,N/A,N/A,N/A,Y,N/A,N/A,99,93
-N/A,38,39,Caesar Enrico Bandello,Villain,Edward G. Robinson,81,M,Little Caesar,84,1931,Y,N/A,N/A,N/A,N/A,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,91,75
-N/A,39,40,Cruella De Vil,Villain,Voice by Betty Lou Gerson,82,F,One Hundred and One Dalmatians,85,1961,N/A,Y,Y,N/A,Y,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,98,75
-N/A,40,41,Freddy Krueger,Villain,Robert Englund,83,M,A Nightmare on Elm Street,86,1984,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,94,83
-N/A,41,42,Joan Crawford,Villain,Faye Dunaway,75,F,Mommie Dearest,87,1981,N/A,N/A,N/A,Y,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,54,72
-N/A,42,43,Tom Powers,Villain,James Cagney,69,M,The Public Enemy,88,1931,N/A,N/A,N/A,N/A,N/A,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,84
-N/A,43,44,Regina Giddens,Villain,Bette Davis,84,F,The Little Foxes,89,1941,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,100,88
-N/A,44,45,Baby Jane Hudson,Villain,Bette Davis,84,F,What Ever Happened to Baby Jane?,90,1962,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,92,92
-N/A,45,46,The Joker,Villain,Jack Nicholson,68,M,Batman,45,1989,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,72,84
-N/A,46,47,Hans Gruber,Villain,Alan Rickman,85,M,Die Hard,91,1988,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,93,94
-N/A,47,48,Tony Camonte,Villain,Paul Muni,86,M,Scarface,92,1932,Y,N/A,N/A,N/A,N/A,Y,Y,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,100,86
-N/A,48,49,"Roger ""Verbal"" Kint (Keyser Soze)",Villain,Kevin Spacey,87,M,The Usual Suspects,93,1995,N/A,N/A,N/A,N/A,N/A,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,Y,N/A,N/A,88,96
-N/A,49,50,Auric Goldfinger,Villain,Gert Frobe (voiced by Michael Collins),88,M,Goldfinger,94,1964,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,97,89
-N/A,50,51,Detective Alonzo Harris,Villain,Denzel Washington,89,M,Training Day,95,2001,N/A,N/A,N/A,N/A,N/A,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,72,89
+﻿HeroRank,VillainRank,TotalRank,CharacterID,CharacterName,CharacterType,Actor,ActorID,Gender,Film,FilmCode,FilmReleaseYear,Action,Adventure,Animation,Biography,Comedy,Crime,Drama,Family,Fantasy,Film-Noir,History,Horror,Musical,Mystery,Romance,Sci-Fi,Sport,Thriller,War,Western,RTCriticScore,RTAudienceScore
+1,N/A,#1 Hero,104,Atticus Finch,Hero,Gregory Peck,1,M,To Kill a Mockingbird,1,1962,N/A,N/A,N/A,N/A,N/A,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,91,92
+2,N/A,#2 Hero,103,Indiana Jones,Hero,Harrison Ford,2,M,Raiders of the Lost Ark,2,1981,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,94,96
+3,N/A,#3 Hero,102,James Bond,Hero,Sean Connery,3,M,Dr. No,3,1962,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,96,82
+4,N/A,#4 Hero,101,Rick Blaine,Hero,Humphrey Bogart,4,M,Casablanca,4,1942,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,Y,N/A,97,95
+5,N/A,#5 Hero,100,Will Kane,Hero,Gary Cooper,5,M,High Noon,5,1952,Y,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,Y,96,89
+6,N/A,#6 Hero,99,Clarice Starling,Hero,Jodie Foster,6,F,The Silence of the Lambs,6,1991,N/A,N/A,N/A,N/A,N/A,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,95,95
+7,N/A,#7 Hero,98,Rocky Balboa,Hero,Sylvester Stallone,7,M,Rocky,7,1976,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,93,69
+8,N/A,#8 Hero,97,Ellen Ripley,Hero,Sigourney Weaver,8,F,Aliens,8,1986,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,Y,N/A,N/A,98,94
+9,N/A,#9 Hero,96,George Bailey,Hero,James Stewart,9,M,It's a Wonderful Life,9,1946,N/A,N/A,N/A,N/A,N/A,N/A,Y,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,94,95
+10,N/A,#10 Hero,95,T. E. Lawrence,Hero,Peter O'Toole,10,M,Lawrence of Arabia,10,1962,N/A,Y,N/A,Y,N/A,N/A,Y,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,98,93
+11,N/A,#11 Hero,94,Jefferson Smith,Hero,James Stewart,9,M,Mr. Smith Goes to Washington,11,1939,N/A,N/A,N/A,N/A,Y,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,94,94
+12,N/A,#12 Hero,93,Tom Joad,Hero,Henry Fonda,11,M,The Grapes of Wrath,12,1940,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,88
+13,N/A,#13 Hero,92,Oskar Schindler,Hero,Liam Neeson,12,M,Schindler's List,13,1993,N/A,N/A,N/A,Y,N/A,N/A,Y,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,97,97
+14,N/A,#14 Hero,91,Han Solo,Hero,Harrison Ford,2,M,Star Wars,14,1977,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,93,96
+15,N/A,#15 Hero,90,Norma Rae Webster,Hero,Sally Field,13,F,Norma Rae,15,1979,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,92,79
+16,N/A,#16 Hero,89,Shane,Hero,Alan Ladd,14,M,Shane,16,1953,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,97,81
+17,N/A,#17 Hero,88,Harry Callahan,Hero,Clint Eastwood,15,M,Dirty Harry,17,1971,Y,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,95,90
+18,N/A,#18 Hero,87,Robin Hood,Hero,Errol Flynn,16,M,The Adventures of Robin Hood,18,1938,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,100,89
+19,N/A,#19 Hero,86,Virgil Tibbs,Hero,Sidney Poitier,17,M,In the Heat of the Night,19,1967,N/A,N/A,N/A,N/A,N/A,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,Y,N/A,N/A,96,92
+20,N/A,#20 Hero,85,Butch Cassidy,Hero,"Paul Newman",18,M,Butch Cassidy and the Sundance Kid,20,1969,N/A,N/A,N/A,Y,N/A,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,89,92
+20,N/A,#20 Hero,84,The Sundance Kid,Hero,Robert Redford,19,M,Butch Cassidy and the Sundance Kid,20,1969,N/A,N/A,N/A,Y,N/A,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,89,92
+21,N/A,#21 Hero,83,Mahatma Gandhi,Hero,Ben Kingsley,20,M,Gandhi,21,1982,N/A,N/A,N/A,Y,N/A,N/A,Y,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,87,92
+22,N/A,#22 Hero,82,Spartacus,Hero,Kirk Douglas,21,M,Spartacus,22,1960,N/A,Y,N/A,Y,N/A,N/A,Y,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,96,87
+23,N/A,#23 Hero,81,Terry Malloy,Hero,Marlon Brando,22,M,On the Waterfront,23,1954,N/A,N/A,N/A,N/A,N/A,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,98,95
+24,N/A,#24 Hero,80,Thelma Dickinson,Hero,Geena Davis,23,F,Thelma & Louise,24,1991,N/A,Y,N/A,N/A,N/A,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,84,82
+24,N/A,#24 Hero,79,Louise Sawyer,Hero,Susan Sarandon,24,F,Thelma & Louise,24,1991,N/A,Y,N/A,N/A,N/A,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,84,82
+25,N/A,#25 Hero,78,Lou Gehrig,Hero,Gary Cooper,5,M,The Pride of the Yankees,25,1942,N/A,N/A,N/A,Y,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,Y,N/A,N/A,N/A,92,89
+26,N/A,#26 Hero,77,Superman,Hero,Christopher Reeve,25,M,Superman,26,1978,Y,Y,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,93,86
+27,N/A,#27 Hero,76,Bob Woodward,Hero,Robert Redford,19,M,All the President's Men,27,1976,N/A,N/A,N/A,Y,N/A,N/A,Y,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,93,92
+27,N/A,#27 Hero,75,Carl Bernstein,Hero,Dustin Hoffman,26,M,All the President's Men,27,1976,N/A,N/A,N/A,Y,N/A,N/A,Y,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,93,92
+28,N/A,#28 Hero,74,Juror #8,Hero,Henry Fonda,11,M,12 Angry Men,28,1957,N/A,N/A,N/A,N/A,N/A,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,97
+29,N/A,#29 Hero,73,General George Patton,Hero,George C. Scott,27,M,Patton,29,1970,N/A,N/A,N/A,Y,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,95,94
+30,N/A,#30 Hero,72,Lucas (Luke) Jackson,Hero,Paul Newman,18,M,Cool Hand Luke,30,1967,N/A,N/A,N/A,N/A,N/A,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,95
+31,N/A,#31 Hero,71,Erin Brockovich,Hero,Julia Roberts,28,F,Erin Brockovich,31,2000,N/A,N/A,N/A,Y,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,84,81
+32,N/A,#32 Hero,70,Philip Marlowe,Hero,Humphrey Bogart,4,M,The Big Sleep,32,1946,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,Y,N/A,N/A,N/A,Y,N/A,N/A,N/A,Y,N/A,N/A,96,91
+33,N/A,#33 Hero,69,Marge Gunderson,Hero,Frances McDormand,29,F,Fargo,33,1996,N/A,N/A,N/A,N/A,N/A,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,93,92
+34,N/A,#34 Hero,68,Tarzan,Hero,Johnny Weissmuller,30,M,Tarzan the Ape Man,34,1932,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,100,67
+35,N/A,#35 Hero,67,Alvin York,Hero,Gary Cooper,5,M,Sergeant York,35,1941,N/A,N/A,N/A,Y,N/A,N/A,Y,N/A,N/A,N/A,Y,N/A,N/A,N/A,Y,N/A,N/A,N/A,Y,N/A,85,87
+36,N/A,#36 Hero,66,Rooster Cogburn,Hero,John Wayne,31,M,True Grit,36,1969,N/A,Y,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,90,84
+37,N/A,#37 Hero,65,Obi-Wan Kenobi,Hero,Alec Guinness,32,M,Star Wars,14,1977,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,93,96
+38,N/A,#38 Hero,64,The Tramp,Hero,Charlie Chaplin,33,M,City Lights,37,1931,N/A,N/A,N/A,N/A,Y,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,98,96
+39,N/A,#39 Hero,63,Lassie,Hero,Pal,34,A,Lassie Come Home,38,1943,N/A,Y,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,94,75
+40,N/A,#40 Hero,62,Frank Serpico,Hero,Al Pacino,35,M,Serpico,39,1973,N/A,N/A,N/A,Y,N/A,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,90,88
+41,N/A,#41 Hero,61,Arthur Chipping,Hero,Robert Donat,36,M,"Goodbye, Mr. Chips",40,1939,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,81,87
+42,N/A,#42 Hero,60,Father Edward,Hero,Spencer Tracy,37,M,Boys Town,41,1938,N/A,N/A,N/A,Y,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,89,81
+43,N/A,#43 Hero,59,Moses,Hero,Charlton Heston,38,M,The Ten Commandments,42,1956,N/A,Y,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,94,87
+44,N/A,#44 Hero,58,"Jimmy ""Popeye"" Doyle",Hero,Gene Hackman,39,M,The French Connection,43,1971,Y,N/A,N/A,N/A,N/A,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,98,87
+45,N/A,#45 Hero,57,Zorro,Hero,Tyrone Power,40,M,The Mark of Zorro,44,1940,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,Y,100,78
+46,N/A,#46 Hero,56,Batman,Hero,Michael Keaton,41,M,Batman,45,1989,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,72,84
+47,N/A,#47 Hero,55,Karen Silkwood,Hero,Meryl Streep,42,F,Silkwood,46,1983,N/A,N/A,N/A,Y,N/A,N/A,Y,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,75,78
+48,N/A,#48 Hero,54,The T-800,Hero,Arnold Schwarzenegger,43,M,Terminator 2: Judgment Day,47,1991,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,93,94
+49,N/A,#49 Hero,53,Andrew Beckett,Hero,Tom Hanks,44,M,Philadelphia,48,1993,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,78,89
+50,N/A,#50 Hero,52,General Maximus Decimus Meridius,Hero,Russell Crowe,45,M,Gladiator,49,2000,Y,Y,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,76,87
+N/A,1,#1 Villain,1,Dr. Hannibal Lecter,Villain,Anthony Hopkins,46,M,The Silence of the Lambs,6,1991,N/A,N/A,N/A,N/A,N/A,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,95,95
+N/A,2,#2 Villain,2,Norman Bates,Villain,Anthony Perkins,47,M,Psycho,50,1960,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,Y,N/A,N/A,N/A,Y,N/A,N/A,97,94
+N/A,3,#3 Villain,3,Darth Vader,Villain,David Prowse (voiced by James Earl Jones),48,M,The Empire Strikes Back,51,1980,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,94,97
+N/A,4,#4 Villain,4,The Wicked Witch of the West,Villain,Margaret Hamilton,49,F,The Wizard of Oz,52,1939,N/A,Y,N/A,N/A,N/A,N/A,N/A,Y,Y,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,99,89
+N/A,5,#5 Villain,5,Nurse Ratched,Villain,Louise Fletcher,50,F,One Flew Over the Cuckoo's Nest,53,1975,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,95,96
+N/A,6,#6 Villain,6,Mr. Potter,Villain,Lionel Barrymore,51,M,It's a Wonderful Life,9,1946,N/A,N/A,N/A,N/A,N/A,N/A,Y,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,95,94
+N/A,7,#7 Villain,7,Alex Forrest,Villain,Glenn Close,52,F,Fatal Attraction,54,1987,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,78,71
+N/A,8,#8 Villain,8,Phyllis Dietrichson,Villain,Barbara Stanwyck,53,F,Double Indemnity,55,1944,N/A,N/A,N/A,N/A,N/A,Y,Y,N/A,N/A,Y,N/A,N/A,N/A,Y,N/A,N/A,N/A,Y,N/A,N/A,96,95
+N/A,9,#9 Villain,9,"Regan MacNeil (as possessed by ""Satan"")",Villain,Linda Blair (voiced by Mercedes McCambridge),54,F,The Exorcist,56,1973,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,86,87
+N/A,10,#10 Villain,10,The Evil Queen,Villain,Voice of Lucille La Verne,55,F,Snow White and the Seven Dwarfs,57,1937,N/A,N/A,Y,N/A,N/A,N/A,N/A,Y,Y,N/A,N/A,N/A,Y,N/A,Y,N/A,N/A,N/A,N/A,N/A,98,78
+N/A,11,#11 Villain,11,Michael Corleone,Villain,Al Pacino,35,M,The Godfather Part II,58,1974,N/A,N/A,N/A,N/A,N/A,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,97,97
+N/A,12,#12 Villain,12,Alex DeLarge,Villain,Malcolm McDowell,56,M,A Clockwork Orange,59,1971,N/A,N/A,N/A,N/A,N/A,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,91,93
+N/A,13,#13 Villain,13,HAL 9000,Villain,Voice of Douglas Rain,57,M,2001: A Space Odyssey,60,1968,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,94,89
+N/A,14,#14 Villain,14,The Alien,Villain,Bolaji Badejo,58,M,Alien,61,1979,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,97,94
+N/A,15,#15 Villain,15,Amon Goeth,Villain,Ralph Fiennes,59,M,Schindler's List,13,1993,N/A,N/A,N/A,Y,N/A,N/A,Y,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,97,97
+N/A,16,#16 Villain,16,Noah Cross,Villain,John Huston,60,M,Chinatown,62,1974,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,Y,N/A,N/A,98,93
+N/A,17,#17 Villain,17,Annie Wilkes,Villain,Kathy Bates,61,F,Misery,63,1990,N/A,N/A,N/A,N/A,N/A,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,89,89
+N/A,18,#18 Villain,18,The Shark,Villain,"""Bruce""",62,A,Jaws,64,1975,N/A,Y,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,97,90
+N/A,19,#19 Villain,19,Captain Bligh,Villain,Charles Laughton,63,M,Mutiny on the Bounty,65,1935,N/A,Y,N/A,Y,N/A,N/A,Y,N/A,N/A,N/A,Y,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,94,83
+N/A,20,#20 Villain,20,Man,Villain,Voiced by Paul Starrs,64,M,Bambi,66,1942,N/A,N/A,Y,N/A,N/A,N/A,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,90,72
+N/A,21,#21 Villain,21,Mrs. Eleanor Iselin,Villain,Angela Lansbury,65,F,The Manchurian Candidate,67,1962,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,98,90
+N/A,22,#22 Villain,22,Terminator,Villain,Arnold Schwarzenegger,43,M,The Terminator,68,1984,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,100,89
+N/A,23,#23 Villain,23,Eve Harrington,Villain,Anne Baxter,66,F,All About Eve,69,1950,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,94
+N/A,24,#24 Villain,24,Gordon Gekko,Villain,Michael Douglas,67,M,Wall Street,70,1987,N/A,N/A,N/A,N/A,N/A,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,78,81
+N/A,25,#25 Villain,25,Jack Torrance,Villain,Jack Nicholson,68,M,The Shining,71,1980,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,87,93
+N/A,26,#26 Villain,26,Cody Jarrett,Villain,James Cagney,69,M,White Heat,72,1949,Y,N/A,N/A,N/A,N/A,Y,Y,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,93
+N/A,27,#27 Villain,27,Martians,Villain,Various,70,U,The War of the Worlds,73,1953,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,Y,N/A,N/A,85,71
+N/A,28,#28 Villain,28,Max Cady,Villain,Robert Mitchum,71,M,Cape Fear,74,1962,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,100,86
+N/A,29,#29 Villain,29,Reverend Harry Powell,Villain,Robert Mitchum,71,M,The Night of the Hunter,75,1955,N/A,N/A,N/A,N/A,N/A,Y,Y,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,98,90
+N/A,30,#30 Villain,30,Travis Bickle,Villain,Robert De Niro,72,M,Taxi Driver,76,1976,N/A,N/A,N/A,N/A,N/A,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,98,93
+N/A,31,#31 Villain,31,Mrs. Danvers,Villain,Judith Anderson,73,F,Rebecca,77,1940,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,Y,Y,N/A,N/A,Y,N/A,N/A,100,92
+N/A,32,#32 Villain,32,Clyde Barrow,Villain,Warren Beatty,74,M,Bonnie and Clyde,78,1967,Y,N/A,N/A,Y,N/A,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,89,88
+N/A,32,#32 Villain,33,Bonnie Parker,Villain,Faye Dunaway,75,F,Bonnie and Clyde,78,1967,Y,N/A,N/A,Y,N/A,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,89,88
+N/A,33,#33 Villain,34,Count Dracula,Villain,Bela Lugosi,76,M,Dracula,79,1931,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,91,81
+N/A,34,#34 Villain,35,Dr. Szell,Villain,Laurence Olivier,77,M,Marathon Man,80,1976,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,80,81
+N/A,35,#35 Villain,36,J.J. Hunsecker,Villain,Burt Lancaster,78,M,Sweet Smell of Success,81,1957,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,98,92
+N/A,36,#36 Villain,37,Frank Booth,Villain,Dennis Hopper,79,M,Blue Velvet,82,1986,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,Y,N/A,N/A,94,88
+N/A,37,#37 Villain,38,Harry Lime,Villain,Orson Welles,80,M,The Third Man,83,1949,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,Y,N/A,N/A,N/A,Y,N/A,N/A,99,93
+N/A,38,#38 Villain,39,Caesar Enrico Bandello,Villain,Edward G. Robinson,81,M,Little Caesar,84,1931,Y,N/A,N/A,N/A,N/A,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,91,75
+N/A,39,#39 Villain,40,Cruella De Vil,Villain,Voice by Betty Lou Gerson,82,F,One Hundred and One Dalmatians,85,1961,N/A,Y,Y,N/A,Y,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,98,75
+N/A,40,#40 Villain,41,Freddy Krueger,Villain,Robert Englund,83,M,A Nightmare on Elm Street,86,1984,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,94,83
+N/A,41,#41 Villain,42,Joan Crawford,Villain,Faye Dunaway,75,F,Mommie Dearest,87,1981,N/A,N/A,N/A,Y,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,54,72
+N/A,42,#42 Villain,43,Tom Powers,Villain,James Cagney,69,M,The Public Enemy,88,1931,N/A,N/A,N/A,N/A,N/A,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,84
+N/A,43,#43 Villain,44,Regina Giddens,Villain,Bette Davis,84,F,The Little Foxes,89,1941,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,100,88
+N/A,44,#44 Villain,45,Baby Jane Hudson,Villain,Bette Davis,84,F,What Ever Happened to Baby Jane?,90,1962,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,92,92
+N/A,45,#45 Villain,46,The Joker,Villain,Jack Nicholson,68,M,Batman,45,1989,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,72,84
+N/A,46,#46 Villain,47,Hans Gruber,Villain,Alan Rickman,85,M,Die Hard,91,1988,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,93,94
+N/A,47,#47 Villain,48,Tony Camonte,Villain,Paul Muni,86,M,Scarface,92,1932,Y,N/A,N/A,N/A,N/A,Y,Y,N/A,N/A,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,100,86
+N/A,48,#48 Villain,49,"Roger ""Verbal"" Kint (Keyser Soze)",Villain,Kevin Spacey,87,M,The Usual Suspects,93,1995,N/A,N/A,N/A,N/A,N/A,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,N/A,Y,N/A,N/A,88,96
+N/A,49,#49 Villain,50,Auric Goldfinger,Villain,Gert Frobe (voiced by Michael Collins),88,M,Goldfinger,94,1964,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,97,89
+N/A,50,#50 Villain,51,Detective Alonzo Harris,Villain,Denzel Washington,89,M,Training Day,95,2001,N/A,N/A,N/A,N/A,N/A,Y,Y,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Y,N/A,N/A,72,89
