@@ -1,9 +1,7 @@
 import sqlite3
-import numpy as np
 import pandas as pd
-from bokeh.models import ColumnDataSource, HoverTool, LinearColorMapper
+from bokeh.models import ColumnDataSource, HoverTool
 from bokeh.plotting import figure, show, output_file
-# from bokeh.palettes import Magma3
 
 conn = sqlite3.connect("db/SQLiteHeroVillain.db")
 HV = pd.read_sql_query("SELECT * FROM Hero_Villain", conn)
@@ -22,14 +20,11 @@ TOOLS="hover,crosshair,pan,wheel_zoom,zoom_in,zoom_out,box_zoom,undo,redo,reset,
 plot = figure(title="AFI's 100 Years...100 Heroes & Villains", tools=TOOLS,
               plot_width=800, plot_height=800)
 
-plot.circle(source=ds, x="FilmReleaseYear", y="CharacterID",fill_color="#9370DB",
-            line_color="#9370DB", fill_alpha=0.4, hover_fill_color="#FFD700",
-            hover_line_color="#FFD700", hover_alpha=1, size=25)
+plot.circle(source=ds, x="FilmReleaseYear", y="CharacterID",
+            fill_color="#87ceeb", line_color="#87ceeb",
+            hover_fill_color="#8a0707", hover_line_color="#8a0707",
+            fill_alpha=0.4,hover_alpha=1, size=25)
 
-# colors = ["#8a0707", "#b3456b", "#b987ba", "#c1c4e8", "#f0f8ff"]
-
-# mapper = LinearColorMapper(palette="Magma3", low=df.CharacterID.min(),
-#                            high=df.CharacterID.max())
 
 plot.select_one(HoverTool).tooltips = [("Character", "@CharacterName"),
                                        ("Actor", "@Actor"),
